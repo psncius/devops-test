@@ -10,9 +10,10 @@ vagrant up
 Using curl, app listen on ip address 10.10.10.20. and curl running on
 host with ip address 10.10.10.1
 
-```
+
 
 ## Example output
+
 
 ```
 curl http://10.10.10.20:
