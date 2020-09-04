@@ -16,7 +16,6 @@
         - nginx
 
     - name: Set timezone to Asia/Jakarta
-
       timezone:
         name: Asia/Jakarta
 
